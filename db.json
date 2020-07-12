@@ -1,4 +1,3 @@
-
 {
   "data": [
     {
@@ -83,13 +82,11 @@
       "State": false
     }
   ],
-  "profile": [
-    {
-      "id": "1",
-      "name": "Sezer Esim",
-      "email": "sezeresim@gmail.com",
-      "registered_date": "7/11/2020, 12:41:53 AM",
-      "phone": "+905388173182"
-    }
-  ]
+  "profile": {
+    "id": "1",
+    "name": "Sezer Esim",
+    "email": "sezeresim@gmail.com",
+    "registered_date": "7/11/2020, 12:41:53 AM",
+    "phone": "+905388173182"
+  }
 }
