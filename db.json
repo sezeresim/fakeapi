@@ -88,5 +88,73 @@
     "email": "sezeresim@gmail.com",
     "registered_date": "7/11/2020, 12:41:53 AM",
     "phone": "+905388173182"
-  }
+  },
+  "exam": [
+    {
+      "id": 1,
+      "question": "2+2=?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": 1
+        },
+        {
+          "id": 2,
+          "answer": 2
+        },
+        {
+          "id": 4,
+          "answer": 3
+        },
+        {
+          "id": 4,
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "2+5=?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": 7
+        },
+        {
+          "id": 2,
+          "answer": 2
+        },
+        {
+          "id": 4,
+          "answer": 3
+        },
+        {
+          "id": 4,
+          "answer": 4
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "2+9=?",
+      "answers": [
+        {
+          "id": 1,
+          "answer": 11
+        },
+        {
+          "id": 2,
+          "answer": 2
+        },
+        {
+          "id": 4,
+          "answer": 3
+        },
+        {
+          "id": 4,
+          "answer": 4
+        }
+      ]
+    }
+  ]
 }
