@@ -170,5 +170,19 @@
     "testDescription": "yok",
     "testTime": "12 dk",
     "testNumberOfQuestions": "12"
+  },
+  "examresultdetail": {
+    "id": "1",
+    "examName": "Example EXAM Name",
+    "examDescription": "examDescription",
+    "institutionName": "INSTITUTION",
+    "examLocation": "Online",
+    "typeOfExam": "Bilgisayarlı",
+    "examDate": "25.06.2020 14: 35",
+    "finishDate": "25.06.2020 14: 35",
+    "isJoinExam": true,
+    "testDescription": "yok",
+    "testTime": "12 dk",
+    "testNumberOfQuestions": "12"
   }
 }
