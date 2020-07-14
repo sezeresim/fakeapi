@@ -184,5 +184,61 @@
     "testDescription": "yok",
     "testTime": "12 dk",
     "testNumberOfQuestions": "12"
-  }
+  },
+  "onlineexam": [
+    {
+      "id": 1,
+      "testName": "Online Exam Test ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": false
+    },
+    {
+      "id": 2,
+      "testName": "Online Exam Test 2",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": true
+    },
+    {
+      "id": 3,
+      "testName": "Online Exam Test 3 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": false
+    },
+    {
+      "id": 4,
+      "testName": "Online Exam Test 4 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": false
+    },
+    {
+      "id": 5,
+      "testName": "Online Exam Test 4 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": false
+    },
+    {
+      "id": 6,
+      "testName": "Online Exam Test 4 ",
+      "examName": "Exam Example ",
+      "InstitutionName": "Example Insttition",
+      "StartingDate": "25.06.2020 14:35",
+      "FinishDate": "25.06.2020 14:35",
+      "State": false
+    }
+  ]
 }
